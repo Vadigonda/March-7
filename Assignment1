@@ -1,0 +1,7 @@
+Online Python - IDE, Editor, Compiler, Interpreter
+s=input('Enter name')
+s=s[1:-1]
+print(s)
+
+Aditya college
+aitya colleg
